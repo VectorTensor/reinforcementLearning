@@ -10,3 +10,7 @@ deep1
 
 Uses deep Q learning algorithm for mountain car game 
 
+deep2 
+
+Uses deep Q learning algorithm with experience replay
+
