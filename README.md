@@ -1,28 +1,27 @@
 # reinforcementLearning
 
-first
-
+# first
 
 Uses basic Q-learning algorithm for playing frozen lake game using gym api
 
 
-deep1
+# deep1
 
 Uses deep Q learning algorithm for mountain car game 
 
-deep2 
+# deep2 
 
 Uses deep Q learning algorithm with experience replay
 
-deep3 
+# deep3 
 
 Uses double Deep Q network
 
-deep4
+# deep4
 
 Optimization of hyperparameters
 
-dialogue
+# dialogue
 
 Deep Q learning is implemented in dialogue conversation modeled as game for npc interaction. Here custom environment is created and user inputs are assumed to be random
 
