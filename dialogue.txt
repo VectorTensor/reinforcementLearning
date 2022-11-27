@@ -1,0 +1,27 @@
+P1 : Greetings 1
+Q1 : Hello witcher! 1
+Q1 : hey kid! 2
+
+
+Q2 : How is it going on brave witcher lord? 3
+Q2 : Witcher can you save us from the creature thats attacking us? 4
+Q2 : Oe witcher, defeat a monster for me. 5
+P2 : Fine just busy fighting creatures from Void dimension 2
+P2 : Ok let me help you with it. What creature is it? 3
+P2 : I m gonna help you but i need to paid well for a contract like that. What kind of creature is it? 4
+P2 : I don't have to bother with this work. farewell (terminal) 5
+
+Q3 : Lord Witcher can you save us from the creature that is attacking us? 6
+P3 : Ok, sir let me help you. What kind of creature is it.6
+
+Q4 : We don't know what monster attacked us but it was vicious. It must have to huge as it slaughtered no less than a dozen wolves. Ripped their guts out, but left lost uneaten. Howls at nighhts. People are afraid to venture into the woods at night. Please lord witcher save us from the beast. 7
+Q4 : We don't know what monster attacked us but it was vicious. It must have to huge as it slaughtered no less than a dozen wolves. Ripped their guts out, but left lost uneaten. Howls at nighhts. People are afraid to venture into the woods at night. 8
+Q4 : No idea what monster attacked us if i knew i would be dead. It must have to huge as it slaughtered no less than a dozen wolves. Ripped their guts out, but left lost uneaten. You sure kid like you can handle it. Howls at nighhts. People are afraid to venture into the woods at night. Sure you can take care of it we dont want any more dead bodies. 9
+P4: Sure it will take 500$ 7
+P4: Sure it will take 800$ 8
+P4: Sure it will take 1200$ 9
+P4: Sorry I am busy. I won't be able to do that.(terminal) 10
+
+ 
+
+
